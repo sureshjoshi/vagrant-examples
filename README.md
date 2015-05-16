@@ -1,6 +1,14 @@
 # vagrant-examples
 A small collection of examples for provisioning Vagrant servers using shell scripts and ansible
 
+These expand on posts written here:
+
+http://www.sureshjoshi.com/development/installing-nodejs-vagrant-windows/
+
+http://www.sureshjoshi.com/development/installing-wordpress-on-vagrant/
+
+http://www.sureshjoshi.com/development/dreamhost-digital-ocean-wordpress/
+
 License
 -------
 
